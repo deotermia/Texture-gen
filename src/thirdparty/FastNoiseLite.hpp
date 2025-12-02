@@ -1,0 +1,8 @@
+//
+// Created by deotermia on 12/2/2025.
+//
+
+#ifndef TEXTURE_GEN_FASTNOISELITE_H
+#define TEXTURE_GEN_FASTNOISELITE_H
+
+#endif //TEXTURE_GEN_FASTNOISELITE_H
